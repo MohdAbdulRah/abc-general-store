@@ -3,6 +3,8 @@
 Live Website: https://abc-general-store-1.onrender.com  
 GitHub Repository: https://github.com/MohdAbdulRah/abc-general-store
 
+## Note : Test Cards are given to test 
+
 ## Overview
 
 ABC General Store is a full-stack web application built using the MERN Stack (MongoDB, Express, React, Node.js).  
