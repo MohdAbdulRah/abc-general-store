@@ -8,6 +8,16 @@ GitHub Repository: https://github.com/MohdAbdulRah/abc-general-store
 ABC General Store is a full-stack web application built using the MERN Stack (MongoDB, Express, React, Node.js).  
 It allows users to browse products, add them to the cart, place orders, and manage store inventory efficiently.
 
+## Test Card Numbers 
+| CardType       | Card Number                            | CVV            | Card Name                              |
+|----------------|----------------------------------------|----------------|----------------------------------------|
+| Mastercard     | 2305 3242 5784 8228                    | 123            | Payment Success                        |
+| Visa           | 4386 2894 0766 0153                    | 123            | Payment Success                        |
+
+Expiry Date :- Any Future Date like 09/30
+Otp if asked then 1234
+
+
 ## Features
 
 ### User Features
@@ -105,16 +115,20 @@ npm start
 
 ```
 abc-general-store/
-├── client/          # React frontend
-├── server/          # Express and Node.js backend
-├── models/          # MongoDB models
-├── routes/          # API routes
+├── frontend/             # React frontend
+|      ├── src/
+|      ├── public/
+|      ├── .env
+├── backend/              # Express and Node.js backend
+|    ├── models/          # MongoDB models
+|    ├── routes/          # API routes
+|    ├── server.js
+|    ├── .env
 └── README.md
 ```
 
 ## Future Enhancements
-
-- Implement Razorpay payment gateway  
+  
 - Add admin dashboard  
 - Add product categories and search functionality  
 - Enable order history for users  
