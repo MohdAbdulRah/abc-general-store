@@ -15,6 +15,7 @@ It allows users to browse products, add them to the cart, place orders, and mana
 | Visa           | 4386 2894 0766 0153                    | 123            | Payment Success                        |
 
 Expiry Date :- Any Future Date like 09/30
+
 Otp if asked then 1234
 
 
