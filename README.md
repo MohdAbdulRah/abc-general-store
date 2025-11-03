@@ -2,6 +2,7 @@
 
 Live Website: https://abc-general-store-1.onrender.com  
 GitHub Repository: https://github.com/MohdAbdulRah/abc-general-store
+Sample View :- https://www.linkedin.com/posts/mohd-abdul-rahman-776479285_mernstack-fullstackdevelopment-reactjs-activity-7391043279343087616-89w1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEVNeAoBrAQmjP1uZdSKO-TUdYU-V1wF1MU
 
 ## Note : Test Cards are given to test 
 
